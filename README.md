@@ -1,4 +1,3 @@
-# tic-tac-toe-htc4
 <h1>Jogo da velha utilizando JS 😎</h1>
 <ol>
     <ul>Estarei utilizando: </ul>
@@ -14,7 +13,6 @@
     <ul>Entender melhor o Javascript</ul>
 </ol>
 
-# tic-tac-toe-htc4
 <h1>Tic-Tac-Toe using JS 😎</h1>
 <ol>
     <ul>I'll be using: </ul>
