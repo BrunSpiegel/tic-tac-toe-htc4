@@ -12,7 +12,7 @@
     <ul>Aprimorar minhas habilidades com o CSS</ul>
     <ul>Entender melhor o Javascript</ul>
 </ol>
-
+#FOR ENGLISH READERS
 <h1>Tic-Tac-Toe using JS 😎</h1>
 <ol>
     <ul>I'll be using: </ul>
