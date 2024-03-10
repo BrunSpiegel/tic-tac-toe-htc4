@@ -1,2 +1,2 @@
 # tic-tac-toe-htc4
-A tic tac toe made using HTML, CSS and JS
+<h1>Jogo da velha utilizando JS</h1>
