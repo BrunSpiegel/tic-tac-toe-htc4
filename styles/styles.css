@@ -75,7 +75,7 @@
   border: 2px solid #2ba9ea;
 }
 
-.switch:hover .switch-ball {
+.switcher-active .switch-ball {
   right: 4px;
 }
 
